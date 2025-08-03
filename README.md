@@ -3,7 +3,7 @@
 YOLO Custom Detection with YOLOv11
 
 本專案基於 
-[EdjeElectronics]([[https://github.com/original-repo-link](https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models?tab=Apache-2.0-1-ov-file)](https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models?tab=readme-ov-file)) 提供的 `yolo_detect.py` 和 
+[EdjeElectronics](https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models?tab=readme-ov-file) 提供的 `yolo_detect.py` 和 
 [Evan Juras, EJ Technology Consultants](https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb) Colab notebook 建立，使用我自定義的資料集訓練模型。
 
 ## 📁 專案內容
